@@ -173,7 +173,6 @@ All models follow the structure:
 - Embedding: https://pytorch.org/docs/stable/generated/torch.nn.Embedding.html
 - RNN: https://pytorch.org/docs/stable/generated/torch.nn.RNN.html
 - LSTM: https://pytorch.org/docs/stable/generated/torch.nn.LSTM.html
-- GRU: https://pytorch.org/docs/stable/generated/torch.nn.GRU.html
 - pack_padded_sequence: https://pytorch.org/docs/stable/generated/torch.nn.utils.rnn.pack_padded_sequence.html
 - CrossEntropyLoss: https://pytorch.org/docs/stable/generated/torch.nn.CrossEntropyLoss.html
 - Adam: https://pytorch.org/docs/stable/generated/torch.optim.Adam.html
@@ -182,13 +181,10 @@ All models follow the structure:
 **pandas**
 - DataFrame.iloc: https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html
 
-**scikit-learn**
-- train_test_split: https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
-- accuracy_score: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html
-- f1_score: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
-- classification_report: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html
-- confusion_matrix: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.confusion_matrix.html
-- ConfusionMatrixDisplay: https://scikit-learn.org/stable/modules/generated/sklearn.metrics.ConfusionMatrixDisplay.html
-
 **Dataset**
 - AG News (Kaggle): https://www.kaggle.com/datasets/amananandrai/ag-news-classification-dataset
+
+**Theory**
+- GRU: https://www.geeksforgeeks.org/machine-learning/gated-recurrent-unit-networks/
+- LSTM vs GRU: https://aicompetence.org/lstm-vs-gru-sequence-processing/
+- RNN vs LSTM vs GRU vs Transformers: https://www.geeksforgeeks.org/deep-learning/rnn-vs-lstm-vs-gru-vs-transformers/
